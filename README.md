@@ -3,25 +3,27 @@ webdemo
 
 webdemo
 
-Ä¿Â¼½á¹¹£º
+mysqlæ•°æ®åº“çš„goè¯­è¨€é©±åŠ¨æ¨èä½¿ç”¨mymysql[ï¼ˆhttps://github.com/ziutek/mymysqlï¼‰](https://github.com/ziutek/mymysql)
+
+ç›®å½•ç»“æ„ï¼š
 
 bin
 
-etc //´æ·Åsql½¨±íÓï¾ä
+etc //å­˜æ”¾sqlå»ºè¡¨è¯­å¥
 
 pkg 
 
-src //Ô´´úÂë
+src //æºä»£ç 
 
-template //js£¬css£¬Ä£°å´æ·ÅµØÖ·
+template //jsï¼Œcssï¼Œæ¨¡æ¿å­˜æ”¾åœ°å€
 
 
-ÔËĞĞÌõ¼ş£º
+è¿è¡Œæ¡ä»¶ï¼š
 
-1 ´î½¨go»·¾³£¬¸´ÖÆ´úÂëµ½gopath
+1 æ­å»ºgoç¯å¢ƒï¼Œå¤åˆ¶ä»£ç åˆ°gopath
 
-2 ´î½¨mysqlÊı¾İ¿â
+2 æ­å»ºmysqlæ•°æ®åº“
 
-3 ĞŞ¸ÄajaxControllerÖĞ#36ĞĞ¹ØÓÚmysqlµÄÊı¾İ¿â
+3 ä¿®æ”¹ajaxControllerä¸­#36è¡Œå…³äºmysqlçš„æ•°æ®åº“
 
-4 ÔÚtemplateµÄ¸¸¼¶Ä¿Â¼ÔËĞĞ·şÎñ
+4 åœ¨templateçš„çˆ¶çº§ç›®å½•è¿è¡ŒæœåŠ¡
